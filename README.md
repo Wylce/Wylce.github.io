@@ -1,7 +1,7 @@
 **CONTENT**
 
-Look at all this content [^1]
+Look at all this content. [^1]
 
 
 
-[^1] *Lotta good content*
+[^1]: *Lotta good content*
