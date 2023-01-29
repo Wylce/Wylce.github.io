@@ -16,6 +16,6 @@ Look at all this content. [^1]
 
 ##### TODO:
 
-[x] Write content
-[X] Table of content
-[] Come up with a third thing
+- [x] Write content
+- [x] Table of content
+- [ ] Come up with a third thing
