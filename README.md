@@ -1,6 +1,6 @@
 # **CONTENT**
 
-This is (Wylie's)[https://github.com/Wylce] content. [^1]
+This is [Wylie's](https://github.com/Wylce) content. [^1]
 
 
 [^1]: *Lotta good content*
