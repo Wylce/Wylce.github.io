@@ -7,6 +7,7 @@ Look at all this content. [^1]
 
 
 ### More content here
+---
 
 | Good Content | Stirring Insights | Third thing |
 | ------------| ------------- | --------------- |
