@@ -24,4 +24,4 @@ Look at all this content. [^1]
 
 ---
 
-<sub>That's all I've got, thank you for the class!</sub>
+<sub>That's it that's all the content, thank you for the class!</sub>
